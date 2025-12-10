@@ -6,7 +6,6 @@
 
 <div  align="center">
 Desenvolvedora em evolução • Estudante de ADS • Apaixonada por tecnologia<br/>
-<img src="https://github-readme-stats.vercel.app/api?username=analuizamelodev&show_icons=true&theme=dracula" height="180px"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=analuizamelodev&layout=compact&theme=dracula" height="180px" />
 </div>
 
 ✨ Sobre mim
@@ -20,6 +19,17 @@ Desenvolvedora em evolução • Estudante de ADS • Apaixonada por tecnologia<
 💼 Atualmente: dev em formação
 
 <div align="center">
+
+<p>
+<img src="https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+  <img src="https://img.shields.io/badge/Python-20232A?style=for-the-badge&logo=python&logoColor=3776AB"/>
+  <img src="https://img.shields.io/badge/Node.js-20232A?style=for-the-badge&logo=node.js&logoColor=339933"/>
+  <img src="https://img.shields.io/badge/TypeScript-20232A?style=for-the-badge&logo=typescript&logoColor=3178C6"/>
+  <img src="https://img.shields.io/badge/Express-20232A?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Prisma-20232A?style=for-the-badge&logo=prisma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-20232A?style=for-the-badge&logo=postgresql&logoColor=336791"/>
+</p>
+
   
   <a href="mailto:analuizamelodasvirgens@gmail.com">
     <img src="https://img.shields.io/badge/GMAIL-ff9aa2?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -30,3 +40,5 @@ Desenvolvedora em evolução • Estudante de ADS • Apaixonada por tecnologia<
   </a>
 
 </div>
+
+

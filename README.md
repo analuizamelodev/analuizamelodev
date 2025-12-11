@@ -8,7 +8,7 @@
 Desenvolvedora em evolução • Estudante de ADS • Apaixonada por tecnologia<br/>
 </div>
 
-### ✨ Sobre mim
+### ✨ Sobre mim:
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas
 

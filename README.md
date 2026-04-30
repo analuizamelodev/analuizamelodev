@@ -1,5 +1,5 @@
 <div align="center">
-  <h2>🎀 Olá! Eu sou a Ana Luiza ☕💻</h2>
+  <h2>☕ Olá! Eu sou a Ana Luiza 💻</h2>
 </div>
 
 <div align="center">

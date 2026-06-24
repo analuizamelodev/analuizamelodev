@@ -19,6 +19,8 @@
 <img src="https://img.shields.io/badge/Node.js-20232A?style=for-the-badge&logo=node.js&logoColor=339933"/>
 <img src="https://img.shields.io/badge/Docker-20232A?style=for-the-badge&logo=docker&logoColor=2496ED"/>
 <img src="https://img.shields.io/badge/Git-20232A?style=for-the-badge&logo=git&logoColor=F05032"/>
+<img src="https://img.shields.io/badge/NestJS-20232A?style=for-the-badge&logo=nestjs&logoColor=E0234E"/>
+<img src="https://img.shields.io/badge/PostgreSQL-20232A?style=for-the-badge&logo=postgresql&logoColor=4169E1"/>
 
 </div>
 
